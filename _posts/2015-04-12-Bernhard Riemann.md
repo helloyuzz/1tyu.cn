@@ -1,8 +1,8 @@
 ---
-title:  "Test post from last year"
+title:  "Bernhard Riemann - (黎曼)"
 categories: jekyll update
-permalink: test-post-from-last-year.html
-tags: [news]
+permalink: Bernhard Riemann.html
+tags: [History, Mathematician]
 ---
 
 This is just a test post from the previous year.

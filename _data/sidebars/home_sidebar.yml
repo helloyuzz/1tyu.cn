@@ -8,8 +8,11 @@ entries:
   - title: 博览
     output: web
     folderitems:
-    - title: Leonhard Euler - (欧拉)
+    - title: 历史上伟大的数学家
       url: /news.html
+      output: web
+    - title: Leonhard Euler - (欧拉)
+      url: /Leonhard Euler.html
       output: web
     - title: Johann Carl Friedrich Gauß - (高斯)
       url: /mydoc_introduction.html
