@@ -15,13 +15,13 @@ entries:
       url: /Leonhard Euler.html
       output: web
     - title: Johann Carl Friedrich Gauß - (高斯)
-      url: /mydoc_introduction.html
+      url: /Gaus.html
       output: web
     - title: Bernhard Riemann - (黎曼)
-      url: /p1_landing_page.html
+      url: /Riemann.html
       output: web
     - title: Pierre-Simon Laplace - (拉普拉斯)
-      url: /p2_landing_page.html
+      url: /Laplace.html
       output: web
     - title: René Descartes - (笛卡尔)
       url: /xxx.html
