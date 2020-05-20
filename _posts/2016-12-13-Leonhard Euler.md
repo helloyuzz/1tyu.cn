@@ -100,7 +100,7 @@ __Leonhard Euler__ (/ˈɔɪlər/ OY-lər; 15 April 1707 – 18 September 1783)�
 - [欧拉砖](#xxx)
 
 ### 外部链接
- - <a herf="http://ap6.pccu.edu.tw/Encyclopedia/data.asp?id=4778" target="_blank">十八世纪数学</a>
+ - [十八世纪数学](http://ap6.pccu.edu.tw/Encyclopedia/data.asp?id=4778)
 
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
