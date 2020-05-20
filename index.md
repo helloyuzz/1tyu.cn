@@ -7,7 +7,7 @@ permalink: index.html
 summary: Mathematical method penetration and dominate all branches of natural science theory. It becomes more and more become a symbol of the primary measure of scientific achievements..
 ---
 
-{% include note.html content="本文中，主要讲解排列与组合的计算方法，同时参考部分示例进行说明，文章中，基于<a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>和<a href='https://gems.ruby-china.com/' target='_blank'>Ruby gems</a>构建，同时采用的<a href='https://github.com/mathjax/MathJax' target='_blank'>MathJax</a>显示文章。." %}
+{% include note.html content="本文中，主要讲解排列与组合的计算方法，同时参考部分示例进行说明，本文章内容，基于<a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>和<a href='https://gems.ruby-china.com/' target='_blank'>Ruby gems</a>构建，同时采用的<a href='https://github.com/mathjax/MathJax' target='_blank'>MathJax</a>显示文章中的数学公式。." %}
 
 ## 排列 $ f(x) = P_n^m $ 与 组合 $ f(x)=C_n^m $ 
 
@@ -81,4 +81,8 @@ __解__: 每人发一瓶可乐,很明显和__次序无关__,所以适合__组合
 <br>
 __答__: 从8名运动员里面选出4人,每人发一瓶可乐,一共有70种选法。
 
+## 总结
+首先，需掌握 __阶乘！__ 的概念和计算方法；针对是否该用 __排列__ 或 __组合__ ，主要是看实际应用中，是否跟 __次序有关__，有关系则用排列计算方法，无关则用组合计算方法。
+
+## Author: hellóyuzz
 {% include links.html %}
