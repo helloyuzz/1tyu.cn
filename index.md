@@ -4,10 +4,10 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: Mathematical method penetration and dominate all branches of natural science theory. It becomes more and more become a symbol of the primary measure of scientific achievements..
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="本文中，主要讲解排列与组合的计算方法，同时参考部分示例进行说明，文章中，基于<a href='https://jekyllrb.com/' target='_blank'>Jekyll</a>和<a href='https://gems.ruby-china.com/' target='_blank'>Ruby gems</a>构建，同时采用的<a href='https://github.com/mathjax/MathJax' target='_blank'>MathJax</a>显示文章。." %}
 
 ## 排列 $ f(x) = P_n^m $ 与 组合 $ f(x)=C_n^m $ 
 
@@ -29,15 +29,17 @@ __阶乘！__：法国数学家：__基斯顿.卡曼__ 在1808年发明  ，在�
 - 16的阶乘， 16！= 1 x  2 x 3 x ... x 14 x 15 x 16
   
 <br>
-####  (1-1) __题目1-1__：从5个士兵里面选出3个士兵，站成不同的队列，有多少种__不同__的选法？
-__解__：分析题目中，问选出的士兵站成不同的队列，有多少种 "__不同的选法__" ，也就是选士兵的次序不同就会站成不同的队列，__跟次序有关__，所以采用[__排列__]的计算方法。
+####  (1-1) __题目1-1__：从5个士兵里面选出3个士兵，根据选择的先后次序站成不同的队列，有多少种选择方法？
+__解__：
+分析题目中，问根据选择的"__先后次序__"站成"__不同__"的队列，有多少种选择方法 ，也就是，跟选士兵的先后次序 __有关__，所以本题应该采用 __[排列]__ 的计算方法。
 
-题目中，共有5个士兵，所以被选数n=5，选出的士兵m=3
+题目中，共有5个士兵，所以被选数n=5，选出的士兵数量m=3
 
-公式：!18  $ f(x) = P_n^m  = \frac{n!}{(n-m)!} $ ! ，则：
-!18  $ f(x) = P_5^3 = \frac{5!}{(5-3)!} = \frac{1×2×3×4×5}{2!} = \frac{1×2×3×4×5}{1×2} = 3×4×5 = 60(种) $ !
+排列公式：  $ f(x) = P_n^m  = \frac{n!}{(n-m)!} $  ，则：
 
-__答__：有60种选法。
+  $ f(x) = P_5^3 = \frac{5!}{(5-3)!} = \frac{1×2×3×4×5}{2!} = \frac{1×2×3×4×5}{1×2} = 3×4×5 = 60(种) $  
+
+__答__：有60种选择方法。
  
 <br>
 ####  (1-2) __题目1-2__: 现有8名运动员，将金银铜铁4块奖牌按金牌、银牌、铜牌、铁牌的次序颁给其中4名运动员，问一共有多少种颁奖方法？
