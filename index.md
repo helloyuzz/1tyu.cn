@@ -1,8 +1,8 @@
 ---
 title: "千里之行，始于足下，不积硅步，无以致千里!"
-keywords: sample homepage
-tags: [getting_started]
-sidebar: mydoc_sidebar
+keywords: Jekyll Exercise-book
+# tags: [getting_started]
+sidebar: mydoc_index_navmenu
 permalink: index.html
 summary: Mathematical method penetration and dominate all branches of natural science theory. It becomes more and more become a symbol of the primary measure of scientific achievements..
 ---

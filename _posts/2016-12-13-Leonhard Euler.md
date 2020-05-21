@@ -3,7 +3,7 @@ title:  "Leonhard Euler - (莱昂哈德·欧拉)"
 published: true
 permalink: Leonhard Euler.html
 toc: true
-summary: "部分资料来源于维基百科，地址：https://en.wikipedia.org/wiki/Leonhard_Euler."
+summary: "欧拉是一位瑞士数学家和物理学家，近代数学先驱之一，他一生大部分时间在俄国和普鲁士度过。欧拉在数学的多个领域，包括微积分和图论都做出过重大贡献。他引进的许多数学术语和书写格式，例如函数的记法f(x)，一直沿用至今。此外，他还在力学、光学和天文学等学科有突出的贡献。欧拉是18世纪杰出的数学家，同时也是有史以来最伟大的数学家之一."
 tags: [History, Mathematician]
 ---
 
