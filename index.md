@@ -1,6 +1,6 @@
 ---
 title: "千里之行，始于足下，不积硅步，无以致千里!"
-keywords: Jekyll Exercise-book
+# keywords: Jekyll Exercise-book
 # tags: [getting_started]
 sidebar: mydoc_index_navmenu
 permalink: index.html
@@ -112,7 +112,7 @@ __组合公式一__（第一种解法）：
 
  $ f(x) = \frac{P_n^m}{m!}  = \frac{60}{m!}  = \frac{60}{3!}= \frac{60}{1×2×3} = 10(种)  $ 
 
-__答__：从5中水果里面，选出3中水果送给朋友，有10中选法。
+__答__：从5中水果里面，选出3中水果送给朋友，有10种选法。
 
 #### 图例
 
