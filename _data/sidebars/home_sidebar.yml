@@ -18,11 +18,11 @@ entries:
       url: /Gaus.html
       output: web
     - title: Bernhard Riemann - (黎曼)
-      url: /Riemann.html
+      url: /Bernhard Riemann.html
       output: web
     - title: Pierre-Simon Laplace - (拉普拉斯)
       url: /Laplace.html
       output: web
     - title: René Descartes - (笛卡尔)
-      url: /xxx.html
+      url: /Descartes.html
       output: web

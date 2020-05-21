@@ -4,19 +4,17 @@ published: true
 permalink: Leonhard Euler.html
 toc: true
 summary: "欧拉是一位瑞士数学家和物理学家，近代数学先驱之一，他一生大部分时间在俄国和普鲁士度过。欧拉在数学的多个领域，包括微积分和图论都做出过重大贡献。他引进的许多数学术语和书写格式，例如函数的记法f(x)，一直沿用至今。此外，他还在力学、光学和天文学等学科有突出的贡献。欧拉是18世纪杰出的数学家，同时也是有史以来最伟大的数学家之一."
-tags: [History, Mathematician]
+# tags: [History, Mathematician]
 ---
 
 __Leonhard Euler__ (/ˈɔɪlər/ OY-lər; 15 April 1707 – 18 September 1783)，欧拉是一位瑞士数学家和物理学家，近代数学先驱之一，他一生大部分时间在俄国和普鲁士度过。欧拉在数学的多个领域，包括微积分和图论都做出过重大贡献。他引进的许多数学术语和书写格式，例如函数的记法'f(x)'，一直沿用至今。此外，他还在力学、光学和天文学等学科有突出的贡献。欧拉是18世纪杰出的数学家，同时也是有史以来最伟大的数学家之一. 
 
 ## 莱昂哈德·欧拉
 <div id="toc"></div>
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/330px-Leonhard_Euler_2.jpg" align="right" style="margin:16px">  
 
 ### 瑞士
-欧拉出生于瑞士巴塞尔的一个牧师家庭，父亲保罗·欧拉（__Paul Euler__）是基督教加尔文宗的牧师，保罗·欧拉早年在巴塞尔大学学习神学，后娶了一位牧师的女儿玛格丽特·布鲁克（__Marguerite Brucker__），也就是欧拉的母亲。
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png" align="center">欧拉出生于瑞士巴塞尔的一个牧师家庭，父亲保罗·欧拉（__Paul Euler__）是基督教加尔文宗的牧师，保罗·欧拉早年在巴塞尔大学学习神学，后娶了一位牧师的女儿玛格丽特·布鲁克（__Marguerite Brucker__），也就是欧拉的母亲。
 欧拉是他们6个孩子中的长子。在欧拉出生后不久，他们全家就从巴塞尔搬迁至郊外的里恩，在那里欧拉度过了他童年的大部分时光，15岁在巴塞尔大学获学士学位，翌年得硕士学位。  
 
 ### 在圣彼得堡
