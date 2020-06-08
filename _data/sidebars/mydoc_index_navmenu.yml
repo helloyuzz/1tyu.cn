@@ -31,9 +31,14 @@ entries:
     - title: 送快递
       url: /aa.html
       output: web, pdf
-    # - title: Introduction
-    #   url: /mydoc_introduction.html
-    #   output: web, pdf
+      
+    - title: Starlink-星链计划
+      url: /Musk.html
+      output: web, pdf
+  # - title: 扩展阅读
+  #   output: web, pdf
+  #   folderitems:
+
 
     # - title: Supported features
     #   url: /mydoc_supported_features.html
